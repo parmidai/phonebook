@@ -1,6 +1,6 @@
 # contact Management system 
 A simple contacts management system built with python
-##Features
+## Features
 
 - Add new contacts
 - Search for contacts by name
